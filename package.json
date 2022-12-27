@@ -1,0 +1,15 @@
+{
+  "name": "cypress-cpf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run:mobile": "npx cypress run --config viewpoerWidth=411,viewpoerHeight=823",
+    "cypress:run":"npx cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.1.0"
+  }
+}
